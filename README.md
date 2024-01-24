@@ -4,4 +4,4 @@ Foi o meu primeiro projeto, desenvolvido durante o curso Iniciante em Programaç
 
 ## Tecnologias utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
