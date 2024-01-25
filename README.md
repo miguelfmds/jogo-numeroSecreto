@@ -1,6 +1,6 @@
-# Jogo Número Secreto - 1 a 100
+# Jogo do Número Secreto
 
-Foi o meu primeiro projeto, desenvolvido durante o curso Iniciante em Programação do Programa ONE - Oracle Next Education.
+Foi o meu primeiro projeto, desenvolvido durante o curso Iniciante em Programação do Programa ONE - Oracle Next Education. O objetivo é descobrir o número secreto, chutando de 1 a 100. O sistema dá dicas se o número é maior ou menor que o seu palpite e também adicionei acessibilidade ao projeto, utilizando o ResponsiveVoice!
 
 ## Imagem final do projeto
 
