@@ -9,4 +9,4 @@ Foi o meu primeiro projeto, desenvolvido durante o curso Iniciante em Programaç
 
 ### Tecnologias utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vscode)](https://skillicons.dev)
